@@ -1,0 +1,76 @@
+
+@font-face {
+
+  font-family: 'arial-black';
+  src: local('Arial Black');
+
+}
+
+
+* {
+  /** font-family:"Arial Black", arial-black, sans-serif; **/
+}
+
+.home-main
+{
+  background: white;
+}
+
+.home-tl 
+{
+
+  -webkit-transform: scale(1, 1.1); /* Safari and Chrome */
+  -moz-transform: scale(1, 1.1); /* Firefox */
+  -ms-transform: scale(1, 1.1); /* IE 9+ */
+  -o-transform: scale(1, 1.1); /* Opera */
+  letter-spacing: 7px;
+  color: #FE2873 ;
+  font-size:20px;
+  margin-top: -2%;
+  font-family:"Arial Black", arial-black, sans-serif;
+
+}
+
+.home-lg
+{
+  padding:10%;
+  width:100%;
+}
+
+.home-nav
+{
+  color: #FE2873 ;
+  font-size: 11px;
+
+  -webkit-transform: scale(1.08, 1); /* Safari and Chrome */
+  -moz-transform: scale(1.08, 1); /* Firefox */
+  -ms-transform: scale(1.08, 1); /* IE 9+ */
+  -o-transform: scale(1.08, 1); /* Opera */
+  font-family:"Arial Black", arial-black, sans-serif;
+  letter-spacing: 1px;
+  margin-bottom:15px;
+}
+
+
+.home-nav-1
+{
+  margin-top:45%;
+}
+
+.home-btn-contact
+{
+  color: #f69728;
+  border: 2px solid #f69728;
+  border-radius: 10px;
+  font-size: 11px;
+  margin-top:25%;
+  margin:21%;
+
+  font-family:"Arial Black", arial-black, sans-serif;
+  -webkit-transform: scale(1.08, 1); /* Safari and Chrome */
+  -moz-transform: scale(1.08, 1); /* Firefox */
+  -ms-transform: scale(1.08, 1); /* IE 9+ */
+  -o-transform: scale(1.08, 1); /* Opera */
+  letter-spacing: 1px;
+
+}
