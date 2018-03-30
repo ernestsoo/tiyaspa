@@ -1,2 +1,0 @@
-# tiyaspa
-Private Project.
